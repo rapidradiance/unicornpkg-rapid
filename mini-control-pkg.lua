@@ -1,5 +1,5 @@
 local package = {}
-package.name = "Mini Tardis Control GUI"
+package.name = "mini-control-pkg"
 package.maintainer = "Rapid Radiance"
 package.version = "1.0.0"
 package.desc = "Mini Tardis GUI Controls using computer craft"
